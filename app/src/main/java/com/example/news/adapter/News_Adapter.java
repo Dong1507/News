@@ -63,9 +63,5 @@ public class News_Adapter extends ArrayAdapter<Item> {
     }
 
 
-    //    public String getItemLink(int position){
-//        Item entry = lists.get(position);
-//        String link = entry.getTitle();
-//        return link;
-//    }
+
 }
